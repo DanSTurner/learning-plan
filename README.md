@@ -33,7 +33,6 @@ plan to learn ruby/rails etc.
 
 * next
     * git immersion by 11/5/13
-    * ruby hashes
     * osx (missing manual)?
     * attend ruby meetups (11/5/13)
     * x sections/day of chris pine/commit to github
@@ -42,3 +41,6 @@ plan to learn ruby/rails etc.
     * sinatra
 
 * learn someday
+
+* completed
+    * ruby hashes https://github.com/DanSTurner/scrabblescore
