@@ -3,19 +3,19 @@ learning-plan
 
 plan to learn ruby/rails etc.
 
-# goals
+## goals
 * become rails devloper
 * work with a team
 * be able to build things
 
-# inventory
+## inventory
 * html
 * css
 * cmd line (some)
 * text editing
 * troubleshooting/problem solving
 
-# resources
+## resources
 * books
     * eloquent ruby
     * rails 3 way
