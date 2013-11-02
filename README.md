@@ -37,6 +37,7 @@ plan to learn ruby/rails etc.
     * attend ruby meetups (11/5/13)
     * x sections/day of chris pine/commit to github
     * meet other GUILD students
+    * what's really going on with git Talk with Colin
 * learn soon
     * sinatra
 
