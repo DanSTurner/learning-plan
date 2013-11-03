@@ -32,9 +32,7 @@ plan to learn ruby/rails etc.
     * caligator
 
 * next
-    * git immersion by 11/5/13
     * ruby scope - practice with nested loops
-    * osx (missing manual)?
     * attend ruby meetup (11/5/13)
     * x sections/day of chris pine/commit to github
     * meet other GUILD students (1of2)
@@ -42,9 +40,10 @@ plan to learn ruby/rails etc.
     * attempt diagraming
 * learn soon
     * sinatra
-
+    * osx (missing manual)?
 * learn someday
 
 * completed
     * ruby hashes https://github.com/DanSTurner/scrabblescore
     * what's really going on with git Talk with Colin
+    * git immersion
