@@ -31,8 +31,12 @@ plan to learn ruby/rails etc.
 * community
     * caligator
 
+* current
+    * exercism.io anagram
+
 * next
     * exercism.io
+    * commenting/documentation
     * ruby scope - practice with nested loops
     * attend ruby meetup (11/5/13)
     * x sections/day of chris pine/commit to github
@@ -47,3 +51,7 @@ plan to learn ruby/rails etc.
     * what's really going on with git Talk with Colin
     * git immersion
     * meet other GUILD students (1of1)
+    * exercism.io
+        * bob
+        * word-count
+        * hamming
