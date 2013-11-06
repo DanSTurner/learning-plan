@@ -34,11 +34,13 @@ plan to learn ruby/rails etc.
 * current
     * exercism.io phone-number
     * pull requests
+        * https://help.github.com/articles/fork-a-repo
+        * https://help.github.com/articles/using-pull-requests
+        * http://yangsu.github.io/pull-request-tutorial/
 
 * next
     * exercism.io
     * think-like-a-git.net
-    * a note about commit messages
     * playing-with-ruby
     * commenting/documentation
     * x sections/day of chris pine
@@ -59,6 +61,8 @@ plan to learn ruby/rails etc.
         * word-count
         * hamming
         * anagrams
-    * attend ruby meetup (11/5/13)
+    * attend ruby meetup (11/5/13) PDX.rb
     * create repo, commit/push exercism
     * exercism.io nucleotide-count
+    * a note about commit messages
+        * http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
