@@ -33,21 +33,21 @@ plan to learn ruby/rails etc.
 
 * current
     * exercism.io nucleotide-count
-    *  reate repo, commit/push exercism
+    * pull requests
 
 * next
     * exercism.io
-    * think-like-a-git.net (added 11/5/13)
+    * think-like-a-git.net
     * a note about commit messages
     * playing-with-ruby
     * commenting/documentation
-    * attend ruby meetup (11/5/13)
     * x sections/day of chris pine
     * attempt diagraming
 * learn soon
     * sinatra
     * osx (missing manual)?
 * learn someday
+    * js
 
 * completed
     * ruby hashes https://github.com/DanSTurner/scrabblescore
@@ -59,3 +59,5 @@ plan to learn ruby/rails etc.
         * word-count
         * hamming
         * anagrams
+    * attend ruby meetup (11/5/13)
+    * create repo, commit/push exercism
