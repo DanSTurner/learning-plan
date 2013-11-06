@@ -33,10 +33,6 @@ plan to learn ruby/rails etc.
 
 * current
     * exercism.io phone-number
-    * pull requests
-        * https://help.github.com/articles/fork-a-repo
-        * https://help.github.com/articles/using-pull-requests
-        * http://yangsu.github.io/pull-request-tutorial/
 
 * next
     * exercism.io
@@ -66,3 +62,9 @@ plan to learn ruby/rails etc.
     * exercism.io nucleotide-count
     * a note about commit messages
         * http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+        * pull requests
+        * https://help.github.com/articles/fork-a-repo
+        * https://help.github.com/articles/using-pull-requests
+        * http://yangsu.github.io/pull-request-tutorial/
+        * made pull request https://github.com/DanSTurner/RedPhone
+
