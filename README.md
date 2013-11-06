@@ -32,7 +32,7 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
-    * exercism.io nucleotide-count
+    * exercism.io phone-number
     * pull requests
 
 * next
@@ -61,3 +61,4 @@ plan to learn ruby/rails etc.
         * anagrams
     * attend ruby meetup (11/5/13)
     * create repo, commit/push exercism
+    * exercism.io nucleotide-count
