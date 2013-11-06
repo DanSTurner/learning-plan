@@ -33,9 +33,13 @@ plan to learn ruby/rails etc.
 
 * current
     * exercism.io nucleotide-count
+    *  reate repo, commit/push exercism
 
 * next
     * exercism.io
+    * think-like-a-git.net (added 11/5/13)
+    * a note about commit messages
+    * playing-with-ruby
     * commenting/documentation
     * attend ruby meetup (11/5/13)
     * x sections/day of chris pine
