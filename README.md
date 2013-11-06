@@ -32,14 +32,13 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
-    * exercism.io anagram
+    * exercism.io nucleotide-count
 
 * next
     * exercism.io
     * commenting/documentation
-    * ruby scope - practice with nested loops
     * attend ruby meetup (11/5/13)
-    * x sections/day of chris pine/commit to github
+    * x sections/day of chris pine
     * attempt diagraming
 * learn soon
     * sinatra
@@ -55,3 +54,4 @@ plan to learn ruby/rails etc.
         * bob
         * word-count
         * hamming
+        * anagrams
