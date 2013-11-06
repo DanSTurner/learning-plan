@@ -47,24 +47,23 @@ plan to learn ruby/rails etc.
 * learn someday
     * js
 
-* completed
-    * ruby hashes https://github.com/DanSTurner/scrabblescore
-    * what's really going on with git Talk with Colin
-    * git immersion
-    * meet other GUILD students (1of1)
+* completed (newest first)
+    * pull requests
+        * https://help.github.com/articles/fork-a-repo
+        * https://help.github.com/articles/using-pull-requests
+        * http://yangsu.github.io/pull-request-tutorial/
+        * made pull request https://github.com/DanSTurner/RedPhone
+    * a note about commit messages
+       * http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+    * exercism.io nucleotide-count
+    * create repo, commit/push exercism
+    * attend ruby meetup (11/5/13) PDX.rb
     * exercism.io
         * bob
         * word-count
         * hamming
         * anagrams
-    * attend ruby meetup (11/5/13) PDX.rb
-    * create repo, commit/push exercism
-    * exercism.io nucleotide-count
-    * a note about commit messages
-        * http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
-        * pull requests
-        * https://help.github.com/articles/fork-a-repo
-        * https://help.github.com/articles/using-pull-requests
-        * http://yangsu.github.io/pull-request-tutorial/
-        * made pull request https://github.com/DanSTurner/RedPhone
-
+    * meet other GUILD students (1of1)
+    * git immersion
+    * what's really going on with git Talk with Colin
+    * ruby hashes https://github.com/DanSTurner/scrabblescore
