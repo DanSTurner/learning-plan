@@ -32,12 +32,12 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
+    * playing-with-ruby
     * exercism.io phone-number
 
 * next
     * exercism.io
     * think-like-a-git.net
-    * playing-with-ruby
     * commenting/documentation
     * x sections/day of chris pine
     * attempt diagraming
@@ -48,6 +48,7 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
+    *playing-with-ruby added logic
     * pull requests
         * https://help.github.com/articles/fork-a-repo
         * https://help.github.com/articles/using-pull-requests
