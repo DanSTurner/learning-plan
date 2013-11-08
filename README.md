@@ -32,8 +32,7 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
-    * playing-with-ruby
-    * exercism.io phone-number
+    * exercism.io grade-school
 
 * next
     * exercism.io
@@ -41,6 +40,7 @@ plan to learn ruby/rails etc.
     * commenting/documentation
     * x sections/day of chris pine
     * attempt diagraming
+    * playing-with-ruby (sprintf)
 * learn soon
     * sinatra
     * osx (missing manual)?
@@ -48,7 +48,11 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
-    *playing-with-ruby added logic
+    * exercism.io phone-number
+    *playing-with-ruby
+        * added logic
+        * made everything easy with transpose
+        * added formatting to terminal output
     * pull requests
         * https://help.github.com/articles/fork-a-repo
         * https://help.github.com/articles/using-pull-requests
