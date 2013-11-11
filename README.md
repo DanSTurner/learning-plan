@@ -32,7 +32,7 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
-    * exercism.io grade-school
+    * exercism.io robot-name
 
 * next
     * exercism.io
@@ -48,7 +48,9 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
-    * exercism.io phone-number
+    * exercism.io
+        * phone-number
+        * grade-school
     *playing-with-ruby
         * added logic
         * made everything easy with transpose
