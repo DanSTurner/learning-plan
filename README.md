@@ -33,7 +33,6 @@ plan to learn ruby/rails etc.
 
 * current
     * accounting.rb
-    * exercism.io meetup
 
 * next
     * exercism.io
@@ -48,6 +47,7 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
+    * exercism.io meetup
     * think-like-a-git.net
     * exercism.io
         * phone-number
