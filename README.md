@@ -37,7 +37,6 @@ plan to learn ruby/rails etc.
 
 * next
     * exercism.io
-    * think-like-a-git.net
     * commenting/documentation
     * x sections/day of chris pine
     * attempt diagraming
@@ -49,6 +48,7 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
+    * think-like-a-git.net
     * exercism.io
         * phone-number
         * grade-school
