@@ -49,7 +49,11 @@ plan to learn ruby/rails etc.
 
 * completed (newest first)
     * think-like-a-git.net
+<<<<<<< HEAD
     * exercism.io
+=======
+        * exercism.io
+>>>>>>> 34a17db729ffa914401f14f409699c5d246c8672
         * phone-number
         * grade-school
         * robot-name
