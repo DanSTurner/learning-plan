@@ -33,7 +33,7 @@ plan to learn ruby/rails etc.
 
 * current
     * read Eloquent Ruby
-    * exercism.io gigasecond
+    * exercism.io scrabble-score
 
 * next
     * exercism.io
@@ -48,7 +48,10 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
-    * exercism.io grains
+    * exercism.io
+        * grains
+        * gigasecond
+        * triangle
     * accounting.rb added methods
     * exercism.io
         * meetup
