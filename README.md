@@ -32,7 +32,6 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
-    * accounting.rb
     * read Eloquent Ruby
     * exercism.io grains
 
@@ -49,6 +48,7 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
+    * accounting.rb added methods
     * exercism.io
         * meetup
         * space_age
