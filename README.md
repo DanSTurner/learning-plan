@@ -49,6 +49,7 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
+    * the magic tricks of testing: https://www.youtube.com/watch?v=URSWYvyc42M
     * exercism.io
         * grains
         * gigasecond
