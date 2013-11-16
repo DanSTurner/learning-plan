@@ -32,6 +32,7 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
+    * calculator project to learn TDD
     * read Eloquent Ruby
     * exercism.io roman
 
