@@ -32,7 +32,6 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
-    * calculator project to learn TDD
     * read Eloquent Ruby
     * exercism.io roman
 
@@ -49,6 +48,7 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
+    * calculator project to learn TDD
     * the magic tricks of testing: https://www.youtube.com/watch?v=URSWYvyc42M
     * exercism.io
         * grains
