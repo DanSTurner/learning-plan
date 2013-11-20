@@ -32,6 +32,7 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
+    * Singing with Sinatra tutorial
     * TDD roman exercise
     * read Eloquent Ruby
     * exercism.io roman
@@ -43,7 +44,6 @@ plan to learn ruby/rails etc.
     * attempt diagraming
     * playing-with-ruby (sprintf)
 * learn soon
-    * sinatra
     * osx (missing manual)?
 * learn someday
     * js
