@@ -32,7 +32,7 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
-    * Singing with Sinatra tutorial
+    * Singing with Sinatra tutorial 2
     * TDD roman exercise
     * read Eloquent Ruby
     * exercism.io roman
@@ -49,6 +49,7 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
+    * Singing with Sinatra tutorial 1
     * accounting.rb adding tests/methods
     * calculator project to learn TDD
     * the magic tricks of testing: https://www.youtube.com/watch?v=URSWYvyc42M
