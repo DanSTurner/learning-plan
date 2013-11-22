@@ -32,7 +32,6 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
-    * TDD roman exercise
     * read Eloquent Ruby
     * exercism.io roman
 
@@ -48,6 +47,7 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
+    * TDD roman exercise
     * Singing with Sinatra: http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/
         * part 1
         * part 2
