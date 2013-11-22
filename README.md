@@ -33,7 +33,7 @@ plan to learn ruby/rails etc.
 
 * current
     * read Eloquent Ruby
-    * exercism.io proverb
+    * exercism.io house
 
 * next
     * exercism.io
@@ -47,7 +47,9 @@ plan to learn ruby/rails etc.
     * js
 
 * completed (newest first)
-    * exercism.io roman
+    * exercism.io
+        * roman
+        * proverb
     * TDD roman exercise
     * Singing with Sinatra: http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/
         * part 1
