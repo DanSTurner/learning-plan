@@ -32,8 +32,9 @@ plan to learn ruby/rails etc.
     * caligator
 
 * current
+    * Jump Start Sinatra
     * read Eloquent Ruby
-    * exercism.io house
+    * exercism.io prime-factors
 
 * next
     * exercism.io
@@ -50,6 +51,7 @@ plan to learn ruby/rails etc.
     * exercism.io
         * roman
         * proverb
+        * house
     * TDD roman exercise
     * Singing with Sinatra: http://net.tutsplus.com/tutorials/ruby/singing-with-sinatra/
         * part 1
