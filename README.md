@@ -36,6 +36,9 @@ plan to learn ruby/rails etc.
     * exercism.io roman
 
 * next
+    * Write a two-player tic-tac-toe app (command-line or Sinatra)
+    * Write a simple desk calculator using recursion: +-/*()
+    * Learn about databases
     * exercism.io
     * commenting/documentation
     * x sections/day of chris pine
