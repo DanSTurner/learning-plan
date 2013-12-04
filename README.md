@@ -31,11 +31,6 @@ plan to learn ruby/rails etc.
 * community
     * caligator
 
-* current
-    * Jump Start Sinatra
-    * read Eloquent Ruby
-    * exercism.io prime-factors
-
 * next
     * Write a two-player tic-tac-toe app (command-line or Sinatra)
     * Write a simple desk calculator using recursion: +-/*()
@@ -50,7 +45,13 @@ plan to learn ruby/rails etc.
 * learn someday
     * js
 
+* current
+    * Jump Start Sinatra (https://github.com/DanSTurner/songs-by-sinatra)
+    * read Eloquent Ruby
+    * exercism.io prime-factors
+
 * completed (newest first)
+    * Betting game using Sinatra https://github.com/DanSTurner/bet
     * exercism.io
         * roman
         * proverb
