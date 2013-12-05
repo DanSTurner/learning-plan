@@ -48,9 +48,12 @@ plan to learn ruby/rails etc.
 * current
     * Jump Start Sinatra (https://github.com/DanSTurner/songs-by-sinatra)
     * read Eloquent Ruby
-    * exercism.io prime-factors
+    * exercism.io strain
 
 * completed (newest first)
+    * exercism.io
+        * prime-factors
+        * raindrops
     * Betting game using Sinatra https://github.com/DanSTurner/bet
     * exercism.io
         * roman
