@@ -46,11 +46,12 @@ plan to learn ruby/rails etc.
     * js
 
 * current
-    * Jump Start Sinatra (https://github.com/DanSTurner/songs-by-sinatra)
+    * Beginning Rails 4
     * read Eloquent Ruby
     * exercism.io strain
 
 * completed (newest first)
+    * Jump Start Sinatra (https://github.com/DanSTurner/songs-by-sinatra)
     * exercism.io
         * prime-factors
         * raindrops
