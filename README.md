@@ -51,6 +51,7 @@ plan to learn ruby/rails etc.
     * exercism.io strain
 
 * completed (newest first)
+    * RVM tutorial (http://net.tutsplus.com/tutorials/why-you-should-use-rvm/)
     * Jump Start Sinatra (https://github.com/DanSTurner/songs-by-sinatra)
     * exercism.io
         * prime-factors
