@@ -46,7 +46,7 @@ plan to learn ruby/rails etc.
     * js
 
 * current
-    * Beginning Rails 4
+    * RoRT (Hartl)
     * read Eloquent Ruby
     * exercism.io strain
 
