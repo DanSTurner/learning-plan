@@ -46,6 +46,8 @@ plan to learn ruby/rails etc.
     * js
 
 * current
+    * Web frameworks
+        * http://teamtreehouse.com/library/framework-basics
     * RoRT (Hartl)
     * read Eloquent Ruby
     * exercism.io strain
