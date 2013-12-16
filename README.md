@@ -46,13 +46,14 @@ plan to learn ruby/rails etc.
     * js
 
 * current
-    * Web frameworks
-        * http://teamtreehouse.com/library/framework-basics
     * RoRT (Hartl)
     * read Eloquent Ruby
     * exercism.io strain
 
 * completed (newest first)
+    * Web frameworks
+        * http://teamtreehouse.com/library/framework-basics
+        * dansturner.com
     * RVM tutorial (http://net.tutsplus.com/tutorials/why-you-should-use-rvm/)
     * Jump Start Sinatra (https://github.com/DanSTurner/songs-by-sinatra)
     * exercism.io
