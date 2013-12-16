@@ -48,9 +48,10 @@ plan to learn ruby/rails etc.
 * current
     * RoRT (Hartl)
     * read Eloquent Ruby
-    * exercism.io strain
+    * exercism.io beer-song
 
 * completed (newest first)
+    * exercism.io strain
     * Web frameworks
         * http://teamtreehouse.com/library/framework-basics
         * dansturner.com
