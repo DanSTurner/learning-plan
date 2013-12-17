@@ -46,7 +46,7 @@ plan to learn ruby/rails etc.
     * js
 
 * current
-    * RoRT (Hartl)
+    * RoRT (Hartl) Ch 4
     * read Eloquent Ruby
     * exercism.io atbash_cypher
 
