@@ -48,12 +48,13 @@ plan to learn ruby/rails etc.
 * current
     * RoRT (Hartl) Ch 4
     * read Eloquent Ruby
-    * exercism.io atbash_cypher
+    * exercism.io accumulate
 
 * completed (newest first)
     * exercism.io
         * strain
         * beer_song
+        * atbash_cypher
     * Web frameworks
         * http://teamtreehouse.com/library/framework-basics
         * dansturner.com
