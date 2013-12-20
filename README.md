@@ -51,6 +51,7 @@ plan to learn ruby/rails etc.
     * exercism.io accumulate
 
 * completed (newest first)
+    * twitter-api-practice repo
     * exercism.io
         * strain
         * beer_song
