@@ -46,7 +46,7 @@ plan to learn ruby/rails etc.
     * js
 
 * current
-    * RoRT (Hartl) Ch 8
+    * RoRT (Hartl) Ch 8.3
     * read Eloquent Ruby
     * exercism.io accumulate
 
