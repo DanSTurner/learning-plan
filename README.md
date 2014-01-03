@@ -46,11 +46,11 @@ plan to learn ruby/rails etc.
     * js
 
 * current
-    * RoRT (Hartl) Ch 11
     * read Eloquent Ruby
     * exercism.io accumulate
 
 * completed (newest first)
+    * Ruby on Rails Tutorial (Hartl)
     * twitter-api-practice repo
     * exercism.io
         * strain
