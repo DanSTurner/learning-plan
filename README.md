@@ -46,6 +46,7 @@ plan to learn ruby/rails etc.
     * js
 
 * current
+    * Treehouse Rails track
     * read Eloquent Ruby
     * exercism.io accumulate
 
