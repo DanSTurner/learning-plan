@@ -46,11 +46,12 @@ plan to learn ruby/rails etc.
     * js
 
 * current
-    * CMS project
+    * okayfeed project
     * read Eloquent Ruby
     * exercism.io accumulate
 
 * completed (newest first)
+    * CMS project
     * Treehouse Rails track (stopped, is out of date)
     * Ruby on Rails Tutorial (Hartl)
     * twitter-api-practice repo
