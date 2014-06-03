@@ -26,31 +26,56 @@ plan to learn ruby/rails etc.
     * Matt
     * Danielle
 * online
-    * treehouse
+    * codeschool.com
+    * codecademy.com
     * hartl
 * community
     * caligator
 
 * next
-    * Write a two-player tic-tac-toe app (command-line or Sinatra)
-    * Write a simple desk calculator using recursion: +-/*()
-    * Learn about databases
     * exercism.io
-    * commenting/documentation
     * x sections/day of chris pine
-    * attempt diagraming
-    * playing-with-ruby (sprintf)
 * learn soon
     * osx (missing manual)?
 * learn someday
     * js
 
 * current
-    * okayfeed project
+    * parkchief project
+    * codeschool.com jQuery
     * read Eloquent Ruby
     * exercism.io accumulate
 
 * completed (newest first)
+    * codeschool.com
+        * JS 1, 2, 3
+        * Angular.js
+    * exercism.io
+        * nth-prime
+        * robot-simulator
+        * matrix
+        * circular-buffer
+        * binary-search-tree
+        * binary-search: less bad
+        * binary-search: bad
+        * kindergarten-garden
+        * largest-series-product
+        * hexadecimal
+        * word problem
+        * linked-list
+        * secret-handshake
+        * difference-of-squares
+        * series
+        * allergies
+        * pythagorean-triplets refactor
+        * pythagorean-triplet
+        * pig-latin
+        * luhn
+        * simple-cipher
+        * sieve
+        * rna-transcription
+        * trinary
+    * okayfeed project
     * CMS project
     * Treehouse Rails track (stopped, is out of date)
     * Ruby on Rails Tutorial (Hartl)
