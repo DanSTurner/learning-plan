@@ -42,12 +42,13 @@ plan to learn ruby/rails etc.
 
 * current
     * parkchief project
-    * codeschool.com jQuery
+    * codeschool.com jQuery 2
     * read Eloquent Ruby
     * exercism.io accumulate
 
 * completed (newest first)
     * codeschool.com
+        * jQuery 1
         * JS 1, 2, 3
         * Angular.js
     * exercism.io
